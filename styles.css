@@ -1,0 +1,109 @@
+.banner {
+ margin: 20px auto;
+  padding: 0x 0px 0px 0px;
+  width: 100%;
+}
+
+#homepage {
+	column-count: 2;
+	column-gap; 24px; 
+	
+	}
+	
+	.saleimg {
+		width: 350px;
+		margin-right: 18px;
+		border: 4px solid #f7f7f7;
+		align: center;
+		}
+
+
+header {
+	margin-top: 24px;
+	}
+
+
+
+body {
+	width: 900px; 
+	background-color: #1E1E24;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+footer {
+	text-align: center;
+	color: white;
+	margin-top: 64px;
+	margin-bottom: 32px;
+	}
+
+nav {
+	font-size: 24px;
+	text-align: center;
+	margin-bottom: 32px;
+	font-family: 'Aref Ruqaa', serif;
+
+}
+
+nav a {
+	font-size: 32px;
+	margin-left: 8px;
+	margin-right: 8px;
+}
+
+p {
+	line-height: 160%;
+	margin-top: 16px;
+	margin-bottom: 16px;
+	color: rgba(255, 255, 255, 0.75);
+  	font-family: 'Pontano Sans', sans-serif;
+	}
+	
+h1 {
+	font-size: 64px;
+	text-align: center;
+	color: rgba(255, 255, 255, 0.75);
+	margin-bottom: 16px;
+	font-family: 'Aref Ruqaa', serif;
+	}
+	
+h2 {
+	font-size: 32px;
+	text-align: center;
+	color: rgba(255, 255, 255, 0.75);
+	font-family: 'Aref Ruqaa', serif;
+	}
+
+h3 {
+color: rgba(255, 255, 255, 0.75);
+  	font-family: 'Pontano Sans', sans-serif;
+  	}
+	
+	
+ul {
+	color: white;
+	}
+	
+ul, ol {
+	font-size: 16px;
+	margin-left: 32px;
+	}
+	
+img {
+	border-radius: 0.25em;
+	width: 100%;
+	}
+	
+a {
+	color: #AA361D;
+	hover: white; 
+	text-decoration: none;
+	}
+	
+a:hover {
+    color: white;
+}
+	
+	
+  
